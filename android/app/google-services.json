@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890128361072",
+    "project_id": "confo0",
+    "storage_bucket": "confo0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890128361072:android:b432de06f06667a5e6b6b5",
+        "android_client_info": {
+          "package_name": "com.example.confo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY-9CP9fYFsCu3p2OE0EJ7s8586ABq3_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
